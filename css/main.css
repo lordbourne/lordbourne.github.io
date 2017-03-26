@@ -2772,5 +2772,9 @@ hr {
     text-align: center;
   }
 }
-
+/*----------------------------------------------*/
 @import "user.css";
+.posts-expand .post-body img {
+  margin: auto;
+  border: none;
+}
